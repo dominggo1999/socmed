@@ -11,7 +11,7 @@
 
 	// Query untuk menambahkan data ke dalam tabel 
 	// mysqli_query(koneksi, query)
-	$query = mysqli_query($con, "INSERT INTO test VALUES(NULL, 'Arnold')");
+	// $query = mysqli_query($con, "INSERT INTO test VALUES(NULL, 'Arnold')");
 
 ?>
 
